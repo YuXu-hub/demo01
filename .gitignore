@@ -1,0 +1,4 @@
+# Project exclude paths
+/eureka/target/
+/login/target/
+/menu/target/
