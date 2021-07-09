@@ -45,6 +45,7 @@ public class Menu extends Model {
     @JsonFormat(pattern = "yyyy-MM-dd HH:mm:ss",timezone = "GMT+8")
     private Date downtime;
 
+    //厨师id
     private Integer cook;
 
     private Integer waiter;
